@@ -119,13 +119,13 @@ https://user-images.githubusercontent.com/25078541/123811962-01474580-d8f4-11eb-
 - Clone the project
 
 ```bash
-  git clone https://github.com/Th3Wall/Fakeflix
+  git clone https://github.com/Doktogreen/Telosat
 ```
 
 - Go to the project directory
 
 ```bash
-  cd fakeflix
+  cd Telosat
 ```
 
 - Install dependencies
